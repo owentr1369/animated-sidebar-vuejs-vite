@@ -30,6 +30,7 @@ export default {
 }
 body {
   background: var(--light);
+  display: flex;
 }
 button {
   cursor: pointer;
