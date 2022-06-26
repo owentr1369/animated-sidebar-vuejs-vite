@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "TamTamMovies",
+            "gitUrl": "https://github.com/owentr1369/tamtammovies",
+            "productUrl": "https://callapilearning.vercel.app/"
+        },  {
+            "id": 2,
+            "title": "Flip Card Pokemon Memories",
+            "gitUrl": "https://github.com/owentr1369/flip-card-pokemon-memories",
+            "productUrl": "https://flip-card-pokemon-memories.vercel.app/"
+        }
+    ]
+
+}
