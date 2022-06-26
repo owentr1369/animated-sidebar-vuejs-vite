@@ -4,6 +4,7 @@ import About from "../src/views/About.vue";
 import Team from "../src/views/Team.vue";
 import Contact from "../src/views/Contact.vue";
 import Settings from "../src/views/Settings.vue";
+import Projects from "../src/views/Projects.vue";
 
 const router = createRouter({
   history: createWebHistory(),
@@ -27,6 +28,11 @@ const router = createRouter({
     {
       path: "/settings",
       component: Settings,
+    },
+
+    {
+      path: "/projects",
+      component: Projects,
     },
   ],
 });
